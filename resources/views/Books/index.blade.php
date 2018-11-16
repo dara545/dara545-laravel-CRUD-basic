@@ -11,7 +11,7 @@
     @endif
     
     {{-- <div class="row"> --}}
-        <a href="{{route('books.create')}}" class="btn btn-outline-primary btn-rounded waves-effect" role="button">Plaats bericht</a> 
+        <a href="{{route('books.create')}}" class="btn btn-primary btn-rounded">Plaats bericht</a> 
         <table class="table table-striped">
         <thead>
             <th>ID</th>

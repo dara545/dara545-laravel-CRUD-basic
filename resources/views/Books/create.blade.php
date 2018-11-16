@@ -3,7 +3,7 @@
 @section('content')
  <h1 class="text-center"></h1>
 
-        <a href="{{route('books.index')}}" class="btn btn-primary btn-rounded float:right">Terug</a> 
+        <a href="{{route('books.index')}}" class="btn btn-primary btn-rounded" style="float:right">Terug</a> 
         <br>
         <br>
       <div class="col-md-6 col-md-offset-3">
